@@ -1,4 +1,4 @@
-# calse-10-loggbok
+# case-10-loggbok
 
 Period: 2023-01-09 till 2023-01-12
 ## Summering av arbetsuppgifter
