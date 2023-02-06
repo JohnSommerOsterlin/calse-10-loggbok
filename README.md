@@ -21,4 +21,11 @@ Lära mig hur man gör ett custom tema i wordpress så vi kan implementera detta
 Denna vecka har jag lagt fokus på att lära mig hur man skapar ett eget tema i wordpress, samt deligerat ut arbetsuppgifter.
 
 ## Nästa vecka
-Skapa en hero section och den generella strukturen samt styling på startsidan 
+Skapa en hero section och den generella strukturen samt styling på startsidan
+
+## Period: 2023-01-30 till 2023-02-03
+## Summering av arbetsuppgifter
+Denna vecka har jag varit involverad i inte bara startsidan utan även footern och kontaktformuläret för att hjälpa christoffer och niclas.
+
+## Nästa vecka
+planen för denna vecka är att optimera designen så att det blir så som vi förstod att hon ville ha den.
