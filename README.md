@@ -29,3 +29,11 @@ Denna vecka har jag varit involverad i inte bara startsidan utan även footern o
 
 ## Nästa vecka
 planen för denna vecka är att optimera designen så att det blir så som vi förstod att hon ville ha den.
+
+
+## Period: 2023-02-06 till 2023-02-10
+## Summering av arbetsuppgifter
+Denna vecka har jag suttit mestadels med att försöka få all css att fungera och färdigställa så mycket vi hinner innan redovisning, samt skapat en header section med en hero bild med hjälp av mattias istället för att behöva lägga in hero bilden som ett block i wp-editorn.
+
+## Nästa vecka
+Planen för denna vecka är att färdigställa så mycket vi hinner innan redovisningen, css, städa upp i koden etc.
